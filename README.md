@@ -1,4 +1,4 @@
-# transformer
+# Transformer
 Transformer explanation and code :
 
 Transformers are the backbone of many state-of-the-art models in natural language processing (NLP) and other fields. Here’s a detailed explanation of how Transformers operate, along with code for the encoder and decoder parts.
